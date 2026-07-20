@@ -118,9 +118,9 @@
 <div align="center">
   <a href="https://dipakdubey.site"><img src="https://img.shields.io/badge/Portfolio-dipakdubey.site-16a34a?logo=vercel&logoColor=white&style=for-the-badge" height="40"/></a>
   <img width="12" />
-  <a href="https://www.linkedin.com/in/dipak-dubey-81775924b"><img src="https://img.shields.io/badge/LinkedIn-dipakdubey-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40"/></a>
+  <a href="https://www.linkedin.com/in/dipak-dubey-81775924b"><img src="https://img.shields.io/badge/LinkedIn-dipak--dubey--81775924b-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40"/></a>
   <img width="12" />
-  <a href="mailto:dipakdubey767@gmail.com"><img src="https://img.shields.io/badge/Email-dipakdubey767@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" height="40"/></a>
+  <a href="mailto:dipakdubey767@gmail.com"><img src="https://img.shields.io/badge/Gmail-dipakdubey767%40gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" height="40"/></a>
 </div>
 
 <br clear="both">
