@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns='http://www.w3.org/2000/svg' font-family='Consolas,monospace' width='985' height='530' font-size='16px'>
+<svg xmlns='http://www.w3.org/2000/svg' font-family='Consolas,monospace' width='985' height='600' font-size='16px'>
 <style>
 .key{fill:#ffa657}.value{fill:#a5d6ff}.dim{fill:#616e7f}
 text,tspan{white-space:pre}
 </style>
-<rect width='985' height='530' fill='#0d1117' rx='15'/>
+<rect width='985' height='600' fill='#0d1117' rx='15'/>
 <clipPath id='c'><circle cx='160' cy='240' r='135'/></clipPath>
 <g clip-path='url(#c)'>
 <rect x='20' y='90' width='280' height='300' fill='#161b22'/>
@@ -51,16 +51,17 @@ text,tspan{white-space:pre}
 <text x='360' y='115' class='dim'>. </text><tspan class='key'>Host</tspan>:<tspan class='value'> Earth (Remote OK)</tspan>
 <text x='360' y='140' class='dim'>. </text><tspan class='key'>IDE</tspan>:<tspan class='value'> VS Code</tspan>
 <text x='360' y='165' class='dim'>. </text><tspan class='key'>Deploy</tspan>:<tspan class='value'> Vercel</tspan>
-<text x='360' y='195' class='dim'>. </text>
 <text x='360' y='225' class='dim'>. </text><tspan class='key'>Languages</tspan>:<tspan class='value'> JavaScript, HTML, CSS</tspan>
-<text x='360' y='250' class='dim'>. </text><tspan class='key'>Skills</tspan>:<tspan class='value'> Web Dev, Frontend</tspan>
-<text x='360' y='280' class='dim'>. </text>
-<text x='360' y='320' fill='#e6edf3' font-weight='bold'>- Contact</text>
-<text x='360' y='345' class='dim'>. </text><tspan class='key'>GitHub</tspan>:<tspan class='value'> github.com/DIPAK-DUBEY</tspan>
-<text x='360' y='370' class='dim'>. </text><tspan class='key'>Portfolio</tspan>:<tspan class='value'> [Add URL]</tspan>
-<text x='360' y='395' class='dim'>. </text><tspan class='key'>LinkedIn</tspan>:<tspan class='value'> [Add URL]</tspan>
-<text x='360' y='420' class='dim'>. </text><tspan class='key'>Email</tspan>:<tspan class='value'> [Add email]</tspan>
-<text x='360' y='450' class='dim'>. </text>
-<text x='360' y='485' fill='#e6edf3' font-weight='bold'>- GitHub Stats</text>
-<text x='360' y='510' class='dim'>. </text><tspan class='key'>Repos</tspan>:<tspan class='value'> 12 | Stars: 5</tspan>
+<text x='360' y='250' class='dim'>. </text><tspan class='key'>Skills</tspan>:<tspan class='value'> React, Tailwind, Redux, Zustand</tspan>
+<text x='360' y='275' class='dim'>. </text><tspan class='value'> TanStack Query, ShadCN, Magic UI</tspan>
+<text x='360' y='300' class='dim'>. </text><tspan class='value'> Axios, Chart.js, Git</tspan>
+<text x='360' y='340' class='dim'>. </text>
+<text x='360' y='370' fill='#e6edf3' font-weight='bold'>- Contact</text>
+<text x='360' y='395' class='dim'>. </text><tspan class='key'>GitHub</tspan>:<tspan class='value'> github.com/DIPAK-DUBEY</tspan>
+<text x='360' y='420' class='dim'>. </text><tspan class='key'>Portfolio</tspan>:<tspan class='value'> dipakdubey.site</tspan>
+<text x='360' y='445' class='dim'>. </text><tspan class='key'>LinkedIn</tspan>:<tspan class='value'> linkedin.com/in/dipak-dubey-81775924b</tspan>
+<text x='360' y='470' class='dim'>. </text><tspan class='key'>Email</tspan>:<tspan class='value'> dipakdubey767@gmail.com</tspan>
+<text x='360' y='510' class='dim'>. </text>
+<text x='360' y='540' fill='#e6edf3' font-weight='bold'>- GitHub Stats</text>
+<text x='360' y='565' class='dim'>. </text><tspan class='key'>Repos</tspan>:<tspan class='value'> 12 | Stars: 5</tspan>
 </svg>
