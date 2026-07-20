@@ -1,15 +1,4 @@
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/DIPAK-DUBEY/DIPAK-DUBEY/main/dark_mode.svg"
-  />
-  <img
-    alt="Dipak Dubey's GitHub Profile README"
-    src="https://raw.githubusercontent.com/DIPAK-DUBEY/DIPAK-DUBEY/main/light_mode.svg"
-  />
-</picture>
 
-###
 
 [![Dipak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DIPAK-DUBEY&theme=github-compact)](https://github.com/DIPAK-DUBEY/github-readme-activity-graph)
 
@@ -28,15 +17,25 @@
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="40" alt="tailwind logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="40" alt="redux logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge" height="40" alt="axios logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=for-the-badge" height="40" alt="chartjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
   <img width="12" />
@@ -44,5 +43,24 @@
 </div>
 
 ###
+
+---
+
+### Featured Projects
+
+<p align="center">
+  <a href="https://github.com/DIPAK-DUBEY/RAMAYANA">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DIPAK-DUBEY&repo=RAMAYANA&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/DIPAK-DUBEY/Where-In-World-">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DIPAK-DUBEY&repo=Where-In-World-&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/DIPAK-DUBEY/Orchestra">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DIPAK-DUBEY&repo=Orchestra&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/DIPAK-DUBEY/Samachaar">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=DIPAK-DUBEY&repo=Samachaar&theme=tokyonight" />
+  </a>
+</p>
 
 <br clear="both">
