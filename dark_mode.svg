@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%;}
+.key {fill: #ffa657;} .value {fill: #a5d6ff;} .addColor {fill: #3fb950;} .delColor {fill: #f85149;} .cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<circle cx="190" cy="240" r="140" fill="#30363d" />
+<text x="190" y="260" font-size="96" text-anchor="middle" fill="#8b949e" font-weight="bold">DD</text>
+<text x="390" y="30" fill="#e6edf3">
+<tspan x="390" y="30">DIPAK-DUBEY</tspan> -—————————————————————————————————————-—-
+<tspan x="390" y="60" class="cc">. </tspan><tspan class="key" y="60">Name</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value" text-anchor="end" x="955" y="60">Dipak Dubey</tspan>
+<tspan x="390" y="85" class="cc">. </tspan><tspan class="key" y="85">OS</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value" text-anchor="end" x="955" y="85">Windows, Linux</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key" y="110">Host</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value" text-anchor="end" x="955" y="110">Earth (Remote OK)</tspan>
+<tspan x="390" y="135" class="cc">. </tspan><tspan class="key" y="135">IDE</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value" text-anchor="end" x="955" y="135">VS Code</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key" y="160">Deploy</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value" text-anchor="end" x="955" y="160">Vercel</tspan>
+<tspan x="390" y="190" class="cc">. </tspan>
+<tspan x="390" y="220" class="cc">. </tspan><tspan class="key" y="220">Languages</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value" text-anchor="end" x="955" y="220">JavaScript, HTML, CSS</tspan>
+<tspan x="390" y="245" class="cc">. </tspan><tspan class="key" y="245">Skills</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value" text-anchor="end" x="955" y="245">Web Dev, Frontend</tspan>
+<tspan x="390" y="270" class="cc">. </tspan>
+<tspan x="390" y="310">- Contact</tspan> -—————————————————————————————————————-—-
+<tspan x="390" y="335" class="cc">. </tspan><tspan class="key" y="335">GitHub</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value" text-anchor="end" x="955" y="335">github.com/DIPAK-DUBEY</tspan>
+<tspan x="390" y="360" class="cc">. </tspan><tspan class="key" y="360">Portfolio</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value" text-anchor="end" x="955" y="360">[Add your portfolio URL]</tspan>
+<tspan x="390" y="385" class="cc">. </tspan><tspan class="key" y="385">LinkedIn</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value" text-anchor="end" x="955" y="385">[Add your LinkedIn URL]</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key" y="410">Email</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value" text-anchor="end" x="955" y="410">[Add your email]</tspan>
+<tspan x="390" y="440" class="cc">. </tspan>
+<tspan x="390" y="475">- GitHub Stats</tspan> -—————————————————————————————————-—-
+<tspan x="390" y="500" class="cc">. </tspan><tspan class="key" y="500">Repos</tspan>:<tspan class="cc"> ................ </tspan><tspan y="500" text-anchor="end" x="955" class="value"><tspan id="repo_data">{repo_count}</tspan> | <tspan class="key">Stars</tspan>: <tspan id="star_data">{star_count}</tspan></tspan>
+</text>
+</svg>

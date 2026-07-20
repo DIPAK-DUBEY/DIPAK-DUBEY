@@ -1,0 +1,40 @@
+name: Update GitHub Stats in SVGs
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch GitHub stats
+        id: stats
+        run: |
+          RESP=$(curl -s "https://api.github.com/users/DIPAK-DUBEY")
+          REPO_COUNT=$(echo "$RESP" | jq -r '.public_repos')
+          FOLLOWER_COUNT=$(echo "$RESP" | jq -r '.followers')
+          
+          STARS=$(curl -s "https://api.github.com/users/DIPAK-DUBEY/repos?per_page=100" | jq '[.[].stargazers_count] | add')
+          if [ "$STARS" = "null" ]; then STARS=0; fi
+          
+          echo "repo_count=$REPO_COUNT" >> $GITHUB_OUTPUT
+          echo "follower_count=$FOLLOWER_COUNT" >> $GITHUB_OUTPUT
+          echo "star_count=$STARS" >> $GITHUB_OUTPUT
+
+      - name: Update SVG placeholders
+        run: |
+          sed -i "s/{repo_count}/${{ steps.stats.outputs.repo_count }}/g" light_mode.svg dark_mode.svg
+          sed -i "s/{star_count}/${{ steps.stats.outputs.star_count }}/g" light_mode.svg dark_mode.svg
+          sed -i "s/{follower_count}/${{ steps.stats.outputs.follower_count }}/g" light_mode.svg dark_mode.svg
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add light_mode.svg dark_mode.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update GitHub stats in SVGs"
+          git push
