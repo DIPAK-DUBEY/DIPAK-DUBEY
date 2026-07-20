@@ -1,11 +1,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/DIPAK-DUBEY/DIPAK-DUBEY/master/dark_mode.svg"
+    srcset="https://raw.githubusercontent.com/DIPAK-DUBEY/DIPAK-DUBEY/main/dark_mode.svg"
   />
   <img
     alt="Dipak Dubey's GitHub Profile README"
-    src="https://raw.githubusercontent.com/DIPAK-DUBEY/DIPAK-DUBEY/master/light_mode.svg"
+    src="https://raw.githubusercontent.com/DIPAK-DUBEY/DIPAK-DUBEY/main/light_mode.svg"
   />
 </picture>
 
